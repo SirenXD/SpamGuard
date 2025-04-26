@@ -1,0 +1,7 @@
+git+https://github.com/google-research/retvec
+pandas
+numpy
+scikit-learn
+beautifulsoup4
+matplotlib
+tensorflow==2.8
